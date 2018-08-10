@@ -73,6 +73,30 @@ $navbar-default-bg: #E0534F;
   font-weight: bold;
 }
 
+.badge {
+  background-color: #BBD9C8;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  font-weight: bold;
+}
+
+.category_link {
+  text-decoration: none !important;
+  color: #164059;
+}
+
+.category_link:hover {
+  color: #567D8C;
+}
+
+.category-title {
+  font-size: 15px;
+}
+
+.input_checkbox input {
+  width: auto !important;
+}
+
 footer {
   margin-top: 45px;
   padding-top: 5px;
